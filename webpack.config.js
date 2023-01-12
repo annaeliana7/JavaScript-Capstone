@@ -1,5 +1,6 @@
 const path = require('path');
 const HtmlWebpackPlugin = require('html-webpack-plugin');
+const webpack = require('webpack');
 
 module.exports = {
   mode: 'development',
@@ -30,7 +31,7 @@ module.exports = {
         test: /\.woff(2)?(\?v=[0-9]\.[0-9]\.[0-9])?$/,
         include: path.resolve(
           __dirname,
-          './node_modules/bootstrap-icons/font/fonts',
+          './node_modules/bootstrap-icons/font/fonts'
         ),
         use: {
           loader: 'file-loader',
@@ -56,6 +57,11 @@ module.exports = {
   plugins: [
     new HtmlWebpackPlugin({
       template: path.resolve(__dirname, 'src', 'index.html'),
+    }),
+    new webpack.ProvidePlugin({
+      $: 'jquery',
+      jQuery: 'jquery',
+      'window.jQuery': 'jquery',
     }),
   ],
   output: {
