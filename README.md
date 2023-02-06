@@ -45,6 +45,12 @@
 
 <br>
 
+## 🤝 Kanban Template <a name="kanban">
+
+This project is a collaboration among team members who utilized a Kanban board. The Kanban template can be accessed [here.](https://github.com/annaeliana7/JavaScript-Capstone-Kanban/projects/1)
+
+<br>
+
 ## 🛠 Built With <a name="built-with"></a>
     Webpack
     HTML5
@@ -58,6 +64,7 @@
     GitHub
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 ## Project Demo Image
 <br>
