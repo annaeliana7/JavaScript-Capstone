@@ -1,15 +1,14 @@
 <a name="readme-top"></a>
 
-<div align="center">
-  <!-- You are encouraged to replace this logo with your own! Otherwise you can also remove it. -->
-  <img src="readme-assets/Castle_Img.png" alt="logo" width="280"  height="auto" />
-    <h3><b>Collaborating for Success: A JavaScript-Capstone Project Journey</b></h3>
+<div align="center"> 
+
+  <img src="readme-ASSETS/kefi-Unearthed-5.png" alt="logo" width="280"  height="auto" />
+    <h3><b>Anna Petras for KING YESHUA - Kefi Unearthed</b></h3>
   <br/>
-❤️
+💜
   <h3><b>Personal README Template</b></h3>
   <br/>
-  
-</div>
+</div> 
 
 <!-- TABLE OF CONTENTS -->
 
@@ -39,42 +38,43 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 JavaScript-Capstone Project - Disney<a name="about-project"></a>
+# 📖 Kanban-Microverse-Template<a name="about-project"></a>
 
-**JavaScript-Capstone Project:** This project is a JavaScript app that uses data from an API to display information on the browser, allowing users to add comments or likes to Disney characters. It uses advanced JavaScript concepts such as ES6 modules, callbacks, and promises, and is built using webpack and follows AAA pattern for unit testing. Gitflow is used for version control.
+**Kanban-Microverse-Template** 
+<br>
+
+The Kanban-Microverse-Template repository contains the Microverse Kanban project, which includes a Kanban board with detailed tasks for developing a JavaScript application that displays information from an API, with user interaction options such as comments or likes. The project is expected to be developed using ES6, callbacks, promises, and webpack. Its code must be unit tested using the AAA pattern, and version control must be managed using Gitflow.
 
 <br>
 
-## 🤝 Kanban Template <a name="kanban">
+## 🏆 Kanban Template
 
-This project is a collaboration among team members who utilized a Kanban board. The Kanban template can be accessed [here.](https://github.com/annaeliana7/JavaScript-Capstone-Kanban/projects/1)
+This project was developed using a Kanban board approach. The Kanban board used during the development of this project can be accessed here: [Projects 1](https://github.com/annaeliana7/Kanban-Microverse-Template/projects/1)
 
 <br>
 
-## 🛠 Built With <a name="built-with"></a>
-    Webpack
-    HTML5
-    CSS3
-    Bootstrap
+## 🛠 Required tools for building the Kanban Project<a name="built-with"></a>
+<!-- ## 🛠 Built With <a name="built-with"></a> -->
+    HTML
+    CSS
     Javascript (ES6)
-    Kanban Board
-    Remote-Collaboration
+    Webpack
     Linters
-    Visual Code Studio
-    GitHub
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
-## Project Demo Image
+## Project Demo Images
 <br>
-<img align="center" src="readme-assets/project_demo3.png" alt="project demo" width="100%"  height="auto" />
+<img align="center" src="readme-ASSETS/Kanban Template-1.png" alt="Kanban Screenshot" width="100%"  height="auto" />
+
+<br>
+
+<img align="center" src="readme-ASSETS/Kanban Template-2.png" alt="Kanban Screenshot" width="100%"  height="auto" />
 
   <br/>
 
 ## 🚀 Live Demo <a name="live-demo"></a>
-
-[JavaScript-Capstone Project](https://annaeliana7.github.io/JavaScript-Capstone/dist)
+[Kanban-Microverse-Template](https://github.com/annaeliana7/Kanban-Microverse-Template/projects/1)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -85,9 +85,9 @@ This project is a collaboration among team members who utilized a Kanban board. 
 
 - Open the command prompt in the created directory.
 
-- On the terminal run this command git clone `https://github.com/annaeliana7/JavaScript-Capstone.git`
+- On the terminal run this command git clone `https://github.com/annaeliana7/Kanban-Microverse-Template.git`
 
-- Go to the repository folder using command prompt cd `JavaScript-Capstone`
+- Go to the repository folder using command prompt cd `Kanban-Microverse-Template`
 
 - Install the dev dependencies for linters run npm install.
 
@@ -108,9 +108,9 @@ Clone this repository to your desired folder:
 
 - Open the command prompt in the created directory.
 
-- On the terminal run this command git clone https://github.com/annaeliana7/JavaScript-Capstone.git
+- On the terminal run this command git clone https://github.com/annaeliana7/Kanban-Microverse-Template.git
 
-- Go to the repository folder using command prompt cd JavaScript-Capstone
+- Go to the repository folder using command prompt cd Kanban-Microverse-Template
 
 - Install the dev dependencies for linters run npm install.
 --->
@@ -120,12 +120,9 @@ Clone this repository to your desired folder:
 
 <!-- Author -->
 
-👤 **Authors:**
-Haliljon Juraboev and
+👤 **Author**
 Anna Petras
 
-
-- GitHub: [@haliljon](https://github.com/haliljon)
 - GitHub: [@annaeliana7](https://github.com/annaeliana7)
 
 
@@ -143,7 +140,7 @@ Anna Petras
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/annaeliana7/JavaScript-Capstone/issues).
+Feel free to check the [issues page](https://github.com/annaeliana7/Kanban-Microverse-Template/issues/1).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -156,7 +153,8 @@ Give a ⭐️ if you like this project!
 
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
-Thanks to Microverse and our coding team and mentors for their support in our software education journey.
+💜 HaShem (Abba) and Yeshua, I LOVE YOU! 💜 Thank you!
+I HONOR + GLORIFY YOU FOREVER ... 💜
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -170,10 +168,16 @@ This project is [MIT](./LICENSE) licensed.
 
 <br>
 
+
 <!-- Author's message -->
 
 <div align="center">
-    <img src="readme-assets/kefi-Unearthed-5.png" alt="logo" width="250"  height="auto" />
-    <h3><b>Anna Petras for KING YESHUA - Kefi Unearthed - Rev 1:8</b></h3>
+  <img src="readme-ASSETS/kefi-Unearthed-5.png" alt="logo" width="280"  height="auto" />
+    <h3><b>Anna Petras for KING YESHUA - Kefi Unearthed</b></h3>
 💜
-
+<br>
+💜
+<br>
+💜
+<br>
+PETRAS FAMILY
