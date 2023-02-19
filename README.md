@@ -47,7 +47,7 @@
 
 ## 🤝 Kanban Template
 
-This project was developed using a Kanban board approach. The Kanban board used during the development of this project can be accessed here: [Group Project](https://github.com/annaeliana7/JavaScript-Capstone-Kanban/projects/1)
+This project was developed collaboratively using the Kanban board approach. We utilized a Kanban board throughout the project's development, which is accessible via [Group Project](https://github.com/annaeliana7/JavaScript-Capstone-Kanban/projects/1)
 
 <br>
 
