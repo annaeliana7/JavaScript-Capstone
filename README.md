@@ -45,9 +45,9 @@
 
 <br>
 
-## 🤝 Kanban Template <a name="kanban">
+## 🤝 Kanban Template
 
-This project is a collaboration among team members who utilized a Kanban board. The Kanban template can be accessed [here.](https://github.com/annaeliana7/JavaScript-Capstone-Kanban/projects/1)
+This project was developed using a Kanban board approach. The Kanban board used during the development of this project can be accessed here: [Group Project](https://github.com/annaeliana7/JavaScript-Capstone-Kanban/projects/1)
 
 <br>
 
@@ -124,7 +124,6 @@ Clone this repository to your desired folder:
 Haliljon Juraboev and
 Anna Petras
 
-
 - GitHub: [@haliljon](https://github.com/haliljon)
 - GitHub: [@annaeliana7](https://github.com/annaeliana7)
 
@@ -169,6 +168,7 @@ This project is [MIT](./LICENSE) licensed.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <br>
+
 
 <!-- Author's message -->
 
